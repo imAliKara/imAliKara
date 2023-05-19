@@ -9,7 +9,7 @@ Hello! I'm Ali, 22 years old. I have been working in the field of web design and
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [MyPortfolio](http://imalikara.com/)
 * ✉️  You can contact me at [karaaliiletisim@gmail.com](mailto:karaaliiletisim@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning ReactJS
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm social.
 
