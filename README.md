@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://imalikara.com/](https://imalikara.com/)
 
-- 💬 Ask me about **C#, PHP, Frontend**
+- 💬 Ask me about **HTML, CSS, Javascript, Frontend**
 
 - 📫 How to reach me **karaaliiletisim@gmail.com**
 
